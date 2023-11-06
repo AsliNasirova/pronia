@@ -1,0 +1,92 @@
+/* footer  */
+.pronia_footer {
+    background-image: url(https://htmldemo.net/pronia/pronia/assets/images/footer/bg/1-1920x465.jpg);
+    width: 1540px;
+    height: 400px;
+    margin-top: 80px;
+
+    .pronia_container {
+        display: flex;
+        justify-content: center;
+        text-align: left;
+        gap: 80px;
+        margin-right: 40px;
+        margin-bottom: 70px;
+    }
+
+    .pronia_text {
+        margin-top: 100px;
+        font-size: 18px;
+
+
+    }
+
+    .footer_icons {
+        gap: 40px;
+
+    }
+
+    .fa-facebook-f {
+        border: 1px solid black;
+        width: 50px;
+        height: 40px;
+        text-align: center;
+
+        &:hover {
+            background-color: #abd373;
+            transition: 0.6s;
+            border: 1px solid #ABD373;
+
+        }
+    }
+
+    .fa-twitter {
+        border: 1px solid black;
+        width: 50px;
+        height: 40px;
+        text-align: center;
+
+        &:hover {
+            background-color: #abd373;
+            transition: 0.6s;
+            border: 1px solid #ABD373;
+
+        }
+
+    }
+
+    .fa-pinterest {
+        border: 1px solid black;
+        width: 50px;
+        height: 40px;
+        text-align: center;
+        margin-top: 20px;
+
+        &:hover {
+            background-color: #abd373;
+            transition: 0.6s;
+            border: 1px solid #ABD373;
+
+        }
+    }
+
+    .fa-dribbble {
+        border: 1px solid black;
+        width: 50px;
+        height: 40px;
+        text-align: center;
+
+        &:hover {
+            background-color: #abd373;
+            transition: 0.6s;
+            border: 1px solid #ABD373;
+
+        }
+    }
+    .footerbottom{
+        text-align: center;
+        color: white;
+        background-color: #abd373;
+    }
+    
+}
